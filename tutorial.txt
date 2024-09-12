@@ -43,7 +43,8 @@ git clone url_do_repositório (clonar repositorio)
 git add . (adiciona ao repositorio local)
 git commit -m "tutorial" (documentar as alterações)
 git push (enviar ao repositorio do github)
-
+git status (verificar o status do repositorio local)
+git pull (sincroniza as informações do repositorio) 
 
 
 Gerar token GitHub
