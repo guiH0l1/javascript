@@ -53,9 +53,34 @@ Gerar token GitHub
 3) Token classic
 4) Gerar o token selecionando tudo, guardar o token
 
+____________________________________________________
+
+Arduino IDE
+
+Boas práticas na programação 
+1) Cabeçalho do documentação
+/**
+ Nome do projeto ou a descrição da classe e função
+ @author Guilherme Holi
+ @version 1.0
+*/
 
 
+______________________________________________________
 
+Node:
+É uma plataforma que executa o java script fora do navegador
+
+comando básicos:
+node -v (mostra a versão) OBS; sempre usar a versão LTS
+
+Gerenciador de pacotes para o Node
+npm está relacionado a pasta de projeto ou seja o pacote está instalado na raiz do projeto e não no sistema
+
+npm -v(versão node)
+npm ls(listar pacotes instalados)
+npm init (iniciar um n ovo projeto em java script)
+    cria um arquivo chamdo package.json(JavaScript Object Notation)
 
 
 
