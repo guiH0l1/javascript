@@ -4,9 +4,14 @@
 
 console.clear()
 
+//constante
+
+const pi = 3.14
+
+//variaveis
 let nome 
 let idade
-let  vip
+let vip
 
 nome = "Guilherme Oliveira"
 console.log(typeof(nome))
@@ -19,3 +24,9 @@ console.log(idade)
 vip = true
 console.log(typeof(vip))
 console.log(vip)
+
+console.log(pi)
+//pi = 3.17
+
+nome =  "Guilherme Holi"
+console.log(nome)

@@ -115,6 +115,9 @@ as variaveis são tipadas ou dinamicamente típadas.
 existem 3 tipos de variaveis o numero(numeros inteiros e não inteiros), string(texto e caracteres, e numeros) 
 e boolean(lógico)
 
+ATENÇÃO: No javaScript uma variavel pode ser criada usando let ou var 
+var ficou obsoleto e inseguro de preferencia use o let.
+
 _________________________________________________________
 
 Comandos em JavaScript: (Sintaxe)
