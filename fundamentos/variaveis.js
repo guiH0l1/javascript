@@ -26,7 +26,7 @@ console.log(typeof(vip))
 console.log(vip)
 
 console.log(pi)
-//pi = 3.17
 
 nome =  "Guilherme Holi"
 console.log(nome)
+
