@@ -101,12 +101,15 @@ npm ls(listar pacotes instalados)
 npm init (iniciar um novo projeto em java script)
     cria um arquivo chamdo package.json(JavaScript Object Notation)
 
+npm i node_do_pacote (instalar um nove pacote)
+npm r nome_do_pacote (remover um pacote)
+
+
 Comandos básicos do MS-DOS 
 cls --> limpar a tela
 dir --> listar arquivos e repositorios
 cd nome_depositorio --> entrar no diretorio
 cd .. -> voltar ao diretorio anterior
-
 
 
 ______________________________________________________
