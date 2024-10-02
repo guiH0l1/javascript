@@ -146,5 +146,4 @@ const --> criar/declarar uma constante
 let --> Criar ou declarar uma variavel
 typeof() --> verificar o tipo da variavel
 
-
 _________________________________________________________
