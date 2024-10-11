@@ -147,3 +147,23 @@ let --> Criar ou declarar uma variavel
 typeof() --> verificar o tipo da variavel
 
 _________________________________________________________
+Estruturas de controle
+- condicionais
+- laço de repetições
+
+Estruturas de controle condicionais
+
+if (condição) {
+    //condição verdadeira
+}
+
+
+if (condição){
+ //condição verdadeira
+}else {
+ //condição falsa
+}
+
+Observações:
+1) Uma condição nunca pode ser verdadeira e falsa simultaneamente
+2) No uso do if e else sempre uma das condições será processada.
