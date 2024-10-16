@@ -4,21 +4,16 @@
 
 
 // variaveis
-let nome
-let peso
-let idade
-let altura
-let vip
-let fcm
-let imc
+let nome, peso, idade, altura, vip, fcm, imc
+
 
 console.clear()
 
 // entrada de dados
 nome = "Guilherme Holi"
-peso = 64
+peso = 90
 idade = 21
-altura = 1.61
+altura = 1.55
 vip = true
 
 
@@ -37,10 +32,16 @@ console.log(`Vip ${vip}`)
 console.log(`FCM ${fcm}`)
 console.log(`IMC ${imc.toFixed(2)}`)
 
-if (imc < 25 | imc > 15){
+if (imc <= 25 && imc >= 15){
     console.log("Peso normal")
-} else if (imc > 30) {
+} else if (imc > 25 && imc <= 30) {
     console.log(`Acima do peso`)
+}else if (imc > 30 && imc <= 35) {
+    console.log(`Obesidade grau 1`)
+} else if (imc > 35 && imc <= 40) {
+    console.log(`Obesidade grau 2`)
+} else if (imc > 40) {
+    console.log(`Obesidade grau 3`)
 } else {
     console.log(`Abaixo do peso`)
 }

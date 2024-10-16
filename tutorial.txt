@@ -160,9 +160,13 @@ if (condição) {
 
 if (condição){
  //condição verdadeira
-}else {
+} else if (condição2){
+    //condição 2 verdadeira
+} else {
  //condição falsa
 }
+
+OBS: Nesta estrutura o else é 
 
 Observações:
 1) Uma condição nunca pode ser verdadeira e falsa simultaneamente
