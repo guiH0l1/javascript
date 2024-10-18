@@ -166,8 +166,23 @@ if (condição){
  //condição falsa
 }
 
-OBS: Nesta estrutura o else é 
+OBS: Nesta estrutura o else é opcional, porem se indicado caso 
+não nenhuma condição 
 
 Observações:
 1) Uma condição nunca pode ser verdadeira e falsa simultaneamente
 2) No uso do if e else sempre uma das condições será processada.
+
+switch case (uso de variavel numerica(numerica inteira))
+
+switch (variavel){
+    case 1: 
+        //codigo caso o valor da variavel seja 1
+        break
+    case 2:
+        //codigo caso o valor da variavel seja 2
+        break
+    default:
+        //opcional, o codigo sera executado se nenhum caso for definido
+        break
+}
