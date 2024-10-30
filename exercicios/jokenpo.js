@@ -5,9 +5,13 @@
 
 const input = require('readline-sync')
 
-let computador, jogador
+let computador, jogador, opcao
 
-console.clear()
+
+
+
+do {
+	console.clear()
 console.log('_____Jokenpo_________')
 
 
@@ -58,4 +62,6 @@ if (jogador === computador) {
 	console.log("DERROTA")
 }
 
+opcao = input.question("Deseja jogar novamente? s/n ")
+} while (opcao === 's');
 
