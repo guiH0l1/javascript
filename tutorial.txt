@@ -213,3 +213,9 @@ do {
 
 As estruturas while e dp while são estruturas de repetições infinitas, ou seja enquanto a condição for verdadeira
 o codigo interno sera repetido infinitamente.
+
+____________________________________________________
+
+Executando javaScript junto com o HTML5 
+-execução interna no proprio documento HTML
+-link com um documento js (preferencialmente)
