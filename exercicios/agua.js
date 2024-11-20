@@ -4,10 +4,11 @@
  */
 
 const input = require("readline-sync")
+console.log(typeof(input))
 
 let peso, consumo
 
-console.clear()
+//console.clear()
 
 console.log("Vericar maioridade")
 

@@ -219,3 +219,43 @@ ____________________________________________________
 Executando javaScript junto com o HTML5 
 -execução interna no proprio documento HTML
 -link com um documento js (preferencialmente)
+
+____________________________________________________
+POO (Programação Orientada a Objetos)
+
+Objeto -> 
+
+Conceito relacionado a estruturas de dados:
+CRUD (Create Read Update Delete)
+São 4 operações básicas que podemos realizar com a estrutura de dados:
+Create: Inserção de dados na estrutura
+Raad: Pesquisa e leitura de dados na estrutura
+Update: Alteração de dados na estrutura
+Delete: Exclusão de dados
+
+Pilares da programação orientada a objetos
+// reutilização
+Abstração
+Herança
+Polimorfismo
+
+// segurança
+Encapsulamento
+
+OBS:
+Toda classe modelo obrigatoriamente deve iniciar com letra maiuscula
+
+Dica:
+
+classe (Biologia Ex: Mamíferos)
+
+Lingua Portuguesa:
+Objeto (substantivo)
+Atributo (adjetivo)
+Metodos (verbos)
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+CURSO DE CIENCIA DE DADOS:
+https://www.netacad.com/courses/introduction-data-science?courseLang=pt-BR&instance_id=584efdbd-0f20-4b44-bf84-00807632d754
+
