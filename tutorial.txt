@@ -239,6 +239,14 @@ Abstração
 Herança
 Polimorfismo
 
+Classe modelo (Abstração - herança - polimorfismo)
+- Biblioteca nativa do js
+- Biblioteca instalado do node
+- Criada pelo usuario usando class
+
+observação o ponto "." é usado para acessar atributos e metodos
+da classe modelo
+
 // segurança
 Encapsulamento
 
