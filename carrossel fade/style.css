@@ -21,12 +21,12 @@ img {
 
 /* slide de entrada */
 #slide.slideIn {
-    transform: translateX(-100%); /* 0  translateY */
-    opacity: 0;
+    transform: translateY(0); /* 0  translateY */
+    opacity: 1;
 }
 
 /* slide de saída */
 #slide.slideOut {
-    transform: translateX(0); /* translateY */
-    opacity: 1;
+    transform: translateY(-100%); /* translateY */
+    opacity: 0;
 }
