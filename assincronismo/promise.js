@@ -59,4 +59,4 @@ logar(login, senha)
     })
     .catch((error) => {
         console.log("Erro de autenticação. " + error)
-    })
+    }) 
